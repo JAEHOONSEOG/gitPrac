@@ -1,5 +1,7 @@
 // For Command Line git tutorial
-// Local remote modification
+// First : Local remote modification
+// Second : Github Notification
+>>>>>>> origin/master
 class Hello {
   public static void main(String[] args) {
     System.out.println("Hello World");
